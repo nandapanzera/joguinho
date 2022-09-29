@@ -6,7 +6,7 @@ Projeto Prático do segundo semestre do curso de Engenharia da Computação da m
 
 ## Síntese do trabalho :books:
 
-ps: O pdf íntegro contendo as instruções do trabalho supracitado está disponível neste mesmo repositório.
+O jogo é do estilo aventura/puzzle onde o objetivo é passar por 3 fases. Em cada fase o jogador deve se movimentar para pegar uma chave e abrir o portal.
 
 ## Discentes :man_technologist: :octocat:
 
