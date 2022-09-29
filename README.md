@@ -12,7 +12,7 @@ O jogo é do estilo aventura/puzzle onde o objetivo é passar por 3 fases. Em ca
 
 - [Fernanda Panzera](https://github.com/nandapanzera)
 - [Igor Rafael](https://github.com/IgorRCG)
-- [Marco Antônio Oliveira](https://github.com/nandapanzera)
+- [Marco Antônio Oliveira](https://github.com/Marcoliveira12)
 - [Rafael Ponciano](https://github.com/rafaelpon)
 ## Docente :man_teacher: 
 
