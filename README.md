@@ -11,7 +11,9 @@ ps: O pdf íntegro contendo as instruções do trabalho supracitado está dispon
 ## Discentes :man_technologist: :octocat:
 
 - [Fernanda Panzera](https://github.com/nandapanzera)
-
+- [Igor Rafael](https://github.com/IgorRCG)
+- [Marco Antônio Oliveira](https://github.com/nandapanzera)
+- [Rafael Ponciano](https://github.com/rafaelpon)
 ## Docente :man_teacher: 
 
 - Pedro Henrique Sales Girotto
